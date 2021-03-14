@@ -1,0 +1,13 @@
+C:\C#Learning\Statement\bin\Debug\netcoreapp3.1\Statement.exe
+C:\C#Learning\Statement\bin\Debug\netcoreapp3.1\Statement.deps.json
+C:\C#Learning\Statement\bin\Debug\netcoreapp3.1\Statement.runtimeconfig.json
+C:\C#Learning\Statement\bin\Debug\netcoreapp3.1\Statement.runtimeconfig.dev.json
+C:\C#Learning\Statement\bin\Debug\netcoreapp3.1\Statement.dll
+C:\C#Learning\Statement\bin\Debug\netcoreapp3.1\Statement.pdb
+C:\C#Learning\Statement\obj\Debug\netcoreapp3.1\Statement.csprojAssemblyReference.cache
+C:\C#Learning\Statement\obj\Debug\netcoreapp3.1\Statement.AssemblyInfoInputs.cache
+C:\C#Learning\Statement\obj\Debug\netcoreapp3.1\Statement.AssemblyInfo.cs
+C:\C#Learning\Statement\obj\Debug\netcoreapp3.1\Statement.csproj.CoreCompileInputs.cache
+C:\C#Learning\Statement\obj\Debug\netcoreapp3.1\Statement.dll
+C:\C#Learning\Statement\obj\Debug\netcoreapp3.1\Statement.pdb
+C:\C#Learning\Statement\obj\Debug\netcoreapp3.1\Statement.genruntimeconfig.cache
