@@ -1,0 +1,13 @@
+C:\C#Learning\DecisionStatement\obj\Debug\netcoreapp3.1\DecisionStatement.csprojAssemblyReference.cache
+C:\C#Learning\DecisionStatement\obj\Debug\netcoreapp3.1\DecisionStatement.AssemblyInfoInputs.cache
+C:\C#Learning\DecisionStatement\obj\Debug\netcoreapp3.1\DecisionStatement.AssemblyInfo.cs
+C:\C#Learning\DecisionStatement\obj\Debug\netcoreapp3.1\DecisionStatement.csproj.CoreCompileInputs.cache
+C:\C#Learning\DecisionStatement\bin\Debug\netcoreapp3.1\DecisionStatement.exe
+C:\C#Learning\DecisionStatement\bin\Debug\netcoreapp3.1\DecisionStatement.deps.json
+C:\C#Learning\DecisionStatement\bin\Debug\netcoreapp3.1\DecisionStatement.runtimeconfig.json
+C:\C#Learning\DecisionStatement\bin\Debug\netcoreapp3.1\DecisionStatement.runtimeconfig.dev.json
+C:\C#Learning\DecisionStatement\bin\Debug\netcoreapp3.1\DecisionStatement.dll
+C:\C#Learning\DecisionStatement\bin\Debug\netcoreapp3.1\DecisionStatement.pdb
+C:\C#Learning\DecisionStatement\obj\Debug\netcoreapp3.1\DecisionStatement.dll
+C:\C#Learning\DecisionStatement\obj\Debug\netcoreapp3.1\DecisionStatement.pdb
+C:\C#Learning\DecisionStatement\obj\Debug\netcoreapp3.1\DecisionStatement.genruntimeconfig.cache
