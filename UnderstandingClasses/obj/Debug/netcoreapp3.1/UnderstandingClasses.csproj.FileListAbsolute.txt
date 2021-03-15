@@ -1,0 +1,13 @@
+C:\C#Learning\UnderstandingClasses\bin\Debug\netcoreapp3.1\UnderstandingClasses.exe
+C:\C#Learning\UnderstandingClasses\bin\Debug\netcoreapp3.1\UnderstandingClasses.deps.json
+C:\C#Learning\UnderstandingClasses\bin\Debug\netcoreapp3.1\UnderstandingClasses.runtimeconfig.json
+C:\C#Learning\UnderstandingClasses\bin\Debug\netcoreapp3.1\UnderstandingClasses.runtimeconfig.dev.json
+C:\C#Learning\UnderstandingClasses\bin\Debug\netcoreapp3.1\UnderstandingClasses.dll
+C:\C#Learning\UnderstandingClasses\bin\Debug\netcoreapp3.1\UnderstandingClasses.pdb
+C:\C#Learning\UnderstandingClasses\obj\Debug\netcoreapp3.1\UnderstandingClasses.csprojAssemblyReference.cache
+C:\C#Learning\UnderstandingClasses\obj\Debug\netcoreapp3.1\UnderstandingClasses.AssemblyInfoInputs.cache
+C:\C#Learning\UnderstandingClasses\obj\Debug\netcoreapp3.1\UnderstandingClasses.AssemblyInfo.cs
+C:\C#Learning\UnderstandingClasses\obj\Debug\netcoreapp3.1\UnderstandingClasses.csproj.CoreCompileInputs.cache
+C:\C#Learning\UnderstandingClasses\obj\Debug\netcoreapp3.1\UnderstandingClasses.dll
+C:\C#Learning\UnderstandingClasses\obj\Debug\netcoreapp3.1\UnderstandingClasses.pdb
+C:\C#Learning\UnderstandingClasses\obj\Debug\netcoreapp3.1\UnderstandingClasses.genruntimeconfig.cache
