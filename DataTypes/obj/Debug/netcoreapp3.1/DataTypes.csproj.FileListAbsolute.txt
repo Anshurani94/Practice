@@ -1,0 +1,13 @@
+C:\C#Learning\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.exe
+C:\C#Learning\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.deps.json
+C:\C#Learning\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.json
+C:\C#Learning\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.dev.json
+C:\C#Learning\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.dll
+C:\C#Learning\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.pdb
+C:\C#Learning\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csprojAssemblyReference.cache
+C:\C#Learning\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfoInputs.cache
+C:\C#Learning\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfo.cs
+C:\C#Learning\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.CoreCompileInputs.cache
+C:\C#Learning\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.dll
+C:\C#Learning\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.pdb
+C:\C#Learning\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.genruntimeconfig.cache

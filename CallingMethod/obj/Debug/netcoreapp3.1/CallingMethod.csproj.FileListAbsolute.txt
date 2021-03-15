@@ -1,0 +1,13 @@
+C:\C#Learning\CallingMethod\bin\Debug\netcoreapp3.1\CallingMethod.exe
+C:\C#Learning\CallingMethod\bin\Debug\netcoreapp3.1\CallingMethod.deps.json
+C:\C#Learning\CallingMethod\bin\Debug\netcoreapp3.1\CallingMethod.runtimeconfig.json
+C:\C#Learning\CallingMethod\bin\Debug\netcoreapp3.1\CallingMethod.runtimeconfig.dev.json
+C:\C#Learning\CallingMethod\bin\Debug\netcoreapp3.1\CallingMethod.dll
+C:\C#Learning\CallingMethod\bin\Debug\netcoreapp3.1\CallingMethod.pdb
+C:\C#Learning\CallingMethod\obj\Debug\netcoreapp3.1\CallingMethod.csprojAssemblyReference.cache
+C:\C#Learning\CallingMethod\obj\Debug\netcoreapp3.1\CallingMethod.AssemblyInfoInputs.cache
+C:\C#Learning\CallingMethod\obj\Debug\netcoreapp3.1\CallingMethod.AssemblyInfo.cs
+C:\C#Learning\CallingMethod\obj\Debug\netcoreapp3.1\CallingMethod.csproj.CoreCompileInputs.cache
+C:\C#Learning\CallingMethod\obj\Debug\netcoreapp3.1\CallingMethod.dll
+C:\C#Learning\CallingMethod\obj\Debug\netcoreapp3.1\CallingMethod.pdb
+C:\C#Learning\CallingMethod\obj\Debug\netcoreapp3.1\CallingMethod.genruntimeconfig.cache
