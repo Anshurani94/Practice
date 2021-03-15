@@ -1,0 +1,13 @@
+C:\C#Learning\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.exe
+C:\C#Learning\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.deps.json
+C:\C#Learning\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.runtimeconfig.json
+C:\C#Learning\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.runtimeconfig.dev.json
+C:\C#Learning\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.dll
+C:\C#Learning\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.pdb
+C:\C#Learning\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.csprojAssemblyReference.cache
+C:\C#Learning\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.AssemblyInfoInputs.cache
+C:\C#Learning\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.AssemblyInfo.cs
+C:\C#Learning\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.csproj.CoreCompileInputs.cache
+C:\C#Learning\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.dll
+C:\C#Learning\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.pdb
+C:\C#Learning\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.genruntimeconfig.cache
