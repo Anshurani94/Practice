@@ -10,3 +10,4 @@ C:\C#Learning\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.c
 C:\C#Learning\Methods\obj\Debug\netcoreapp3.1\Methods.dll
 C:\C#Learning\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
 C:\C#Learning\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
+C:\C#Learning\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
