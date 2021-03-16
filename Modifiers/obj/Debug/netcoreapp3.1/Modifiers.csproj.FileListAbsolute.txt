@@ -1,0 +1,13 @@
+C:\C#Learning\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.exe
+C:\C#Learning\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.deps.json
+C:\C#Learning\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.runtimeconfig.json
+C:\C#Learning\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.runtimeconfig.dev.json
+C:\C#Learning\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.dll
+C:\C#Learning\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.pdb
+C:\C#Learning\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.csprojAssemblyReference.cache
+C:\C#Learning\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.AssemblyInfoInputs.cache
+C:\C#Learning\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.AssemblyInfo.cs
+C:\C#Learning\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.csproj.CoreCompileInputs.cache
+C:\C#Learning\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.dll
+C:\C#Learning\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.pdb
+C:\C#Learning\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.genruntimeconfig.cache
