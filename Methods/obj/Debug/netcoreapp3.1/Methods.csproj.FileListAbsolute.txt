@@ -1,0 +1,12 @@
+C:\C#Learning\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\C#Learning\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\C#Learning\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\C#Learning\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\C#Learning\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\C#Learning\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\C#Learning\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\C#Learning\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\C#Learning\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\C#Learning\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\C#Learning\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\C#Learning\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
